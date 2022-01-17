@@ -20,15 +20,15 @@ So, we decided to design an Arduino based system aiming to secure our locks. Thi
 
 ## Circuit Diagram
 
-
+<img src="circuit diagram.bmp" width="600" >
 
 ##  Overview of Project
 
-
+<img src="project.bmp" width="600" >
 
 ## How it works?
 
-
+<img src="flowchart.bmp" width="600" >
 
 ## Features
 - The main advantage of the Electronic Door Locks is high resistance to cracking. For example, with a password of only four characters, we get 10,000 possible combinations. And adding one more digit gives 100,000 options.
